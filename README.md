@@ -96,7 +96,7 @@ Add screenshots or report snippet — this visual impresses instantly.
 - Generate Allure Reports for advanced analytics
 
 
-## 👩‍💻 Author
+## Author
 **Medhavee Upadhyaya**  
 Master’s in Computer Science | Software Engineer in Test  
 [LinkedIn](www.linkedin.com/in/medhavee-upadhyaya) | [GitHub](https://github.com/medhavee-upadhyaya)
