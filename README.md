@@ -68,9 +68,7 @@ orangehrm-qa-automation-medhavee/
     open reports/full_suite.html
 
 
----
-
-### Sample Output**
+### Sample Output
 Add screenshots or report snippet — this visual impresses instantly.
 ```markdown
 ## Sample Reports & Screenshots
